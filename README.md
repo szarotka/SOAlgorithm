@@ -1,6 +1,7 @@
 # SOAlgorithm
 
 Given 2 numbers m and n. We need to convert a number m to n with minimum operations.
+
 The operations allowed are: -1 and *2.
 
 Example 1.
